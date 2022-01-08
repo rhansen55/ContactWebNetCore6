@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.32014.148
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ContactWebNetCore6", "ContactWebNetCore6\ContactWebNetCore6.csproj", "{4666189D-7BC3-487D-8A23-8E6E49A3C0FB}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{4666189D-7BC3-487D-8A23-8E6E49A3C0FB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4666189D-7BC3-487D-8A23-8E6E49A3C0FB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4666189D-7BC3-487D-8A23-8E6E49A3C0FB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4666189D-7BC3-487D-8A23-8E6E49A3C0FB}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {736F2C3A-BCBC-4154-BACD-9D78EEF5AF80}
+	EndGlobalSection
+EndGlobal
